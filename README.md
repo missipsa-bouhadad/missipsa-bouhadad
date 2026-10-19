@@ -6,6 +6,9 @@
 
 Bienvenue sur mon profil GitHub ! Je conçois des applications web et mobiles modernes en utilisant des technologies comme **React**, **Next.js**, **Node.js** et **Flutter**, avec un intérêt pour les pratiques **DevOps**. Je m'attache à développer des solutions performantes, maintenables et évolutives.
 
+## 🚧 Projet en cours
+### [Rescore](https://github.com/missipsa-bouhadad/Rescore)
+
 ## Contact
 
 - 📧 Email : [missipsabhd@gmail.com](mailto:missipsabhd@gmail.com)
