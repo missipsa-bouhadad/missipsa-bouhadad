@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Futur+Ing%C3%A9nieur+Logiciel&color=8B5CF6&style=for-the-badge" />
 </p>
 
-Bienvenue sur mon profil GitHub ! Je conçois des applications web et mobiles modernes en utilisant des technologies comme **React**, **Next.js**, **Node.js** et **Flutter**, avec un intérêt pour les pratiques **DevOps**. Je m'attache à développer des solutions performantes, maintenables et évolutives.
+Bienvenue sur mon profil GitHub ! Je conçois des **applications web** modernes, avec un intérêt pour les pratiques **DevOps**. Je m'attache à développer des solutions performantes, maintenables et évolutives.
 
 ## 🚧 Projet en cours
 ### [Rescore](https://github.com/missipsa-bouhadad/Rescore)
